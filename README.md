@@ -31,7 +31,8 @@ https://leetcode-cn.com/problem-list/2cktkvj/
 | 46   | [全排列](https://leetcode-cn.com/problems/permutations/) | [Java](./46.%E5%85%A8%E6%8E%92%E5%88%97.java) | Medium |
 | 48   |                                                              |                                                              |            |
 | 49   |                                                              |                                                              |            |
-| 53   |                                                              |                                                              |            |
+| 53   | [最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/) | [Java](./53.%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.java) | Easy |
+|  |  |  | |
 | 55   |                                                              |                                                              |            |
 | 56   |                                                              |                                                              |            |
 | 62   |                                                              |                                                              |            |
@@ -73,7 +74,7 @@ https://leetcode-cn.com/problem-list/2cktkvj/
 | 215  |                                                              |                                                              |            |
 | 221  |                                                              |                                                              |            |
 | 226  | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | [Java](./226.%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.java) | Easy |
-| 234  |                                                              |                                                              |            |
+| 234  | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [Java](./234.%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.java) | Easy |
 | 236  | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Java](./236.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.java) | Medium |
 | 238  |                                                              |                                                              |            |
 | 239  | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | [Java](./239.%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.java) | Medium |
