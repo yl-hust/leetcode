@@ -12,11 +12,11 @@ class Solution {
         // 用散列表记录已遍历的数
         HashMap<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
-            int x = target - nums[i]; //目标值减去当前值
+            int x = target - nums[i];
             if (map.containsKey(x)){
                 return new int[] {map.get(x), i};
             }
-            map.put(nums[i], i);//记录到散列表
+            map.put(nums[i], i);
         }
         return new int[0]; 
     }
