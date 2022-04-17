@@ -31,7 +31,7 @@ https://leetcode-cn.com/problem-list/2cktkvj/
 | 46   | [全排列](https://leetcode-cn.com/problems/permutations/) | [Java](./java/medium/46.%E5%85%A8%E6%8E%92%E5%88%97.java) | Medium |
 | 48   |                                                              |                                                              |            |
 | 49   |                                                              |                                                              |            |
-| 53   | [最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/) | [Java](./java/medium/53.%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.java) | Easy |
+| 53   | [最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/) | [Java](./java/easy/53.%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.java) | Easy |
 |  |  |  | |
 | 55   |                                                              |                                                              |            |
 | 56   |                                                              |                                                              |            |
