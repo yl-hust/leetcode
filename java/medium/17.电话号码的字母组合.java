@@ -27,6 +27,9 @@ class Solution {
     
     public List<String> letterCombinations(String digits) {        
         List<String> res = new ArrayList<>();
+        if (digits.length() == 0) {
+            return res;
+        }
         backtrack(res, digits, 0, new StringBuilder());
         return res;
     }

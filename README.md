@@ -22,7 +22,7 @@ https://leetcode-cn.com/problem-list/2cktkvj/
 | 21   | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Java](./java/easy/21.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.java) | Easy       |
 | 22   | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [Java](./java/medium/22.%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.java)                                                         | Medium           |
 | 23   |                                                              |                                                              |            |
-| 31   |                                                              |                                                              |            |
+| 31   | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [Java](./java/medium/31.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.java) | Medium |
 | 32   |                                                              |                                                              |            |
 | 33   |                                                              |                                                              |            |
 | 34   | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](./java/medium/34.%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.java) | Medium |
