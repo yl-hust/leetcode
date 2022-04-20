@@ -26,7 +26,7 @@ https://leetcode-cn.com/problem-list/2cktkvj/
 | 32   |                                                              |                                                              |            |
 | 33   | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Java](./java/medium/33.%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.java) | Medium |
 | 34   | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](./java/medium/34.%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.java) | Medium |
-| 39   |                                                              |                                                              |            |
+| 39   | [组合总和](https://leetcode-cn.com/problems/combination-sum/) | [Java](./java/medium/39.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.java) | Medium |
 | 42   |                                                              |                                                              |            |
 | 46   | [全排列](https://leetcode-cn.com/problems/permutations/) | [Java](./java/medium/46.%E5%85%A8%E6%8E%92%E5%88%97.java) | Medium |
 | 48   |                                                              |                                                              |            |
