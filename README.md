@@ -33,7 +33,7 @@ https://leetcode-cn.com/problem-list/2cktkvj/
 | 49   | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [Java](./java/medium/49.%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.java) | Medium |
 | 53   | [最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/) | [Java](./java/easy/53.%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.java) | Easy |
 | 55   | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [Java](./java/medium/55.%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.java) | Medium |
-| 56   |                                                              |                                                              |            |
+| 56   | [合并区间](https://leetcode-cn.com/problems/merge-intervals/) | [Java](./java/medium/56.%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.java) | Medium |
 | 62   |                                                              |                                                              |            |
 | 64   |                                                              |                                                              |            |
 | 70   | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [Java](./java/easy/70.%E7%88%AC%E6%A5%BC%E6%A2%AF.java) | Easy |
