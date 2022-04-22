@@ -45,7 +45,7 @@ https://leetcode-cn.com/problem-list/2cktkvj/
 | 84   |                                                              |                                                              |            |
 | 85   |                                                              |                                                              |            |
 | 94   | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Java](./java/easy/94.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.java) | Easy |
-| 96   |                                                              |                                                              |            |
+| 96   | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [Java](./java/medium/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.java) | Medium |
 | 98   | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [Java](./java/medium/98.%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.java) | Medium |
 | 101  | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [Java](./java/easy/101.%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.java) | Easy |
 | 102 | [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [Java](./java/medium/102.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.java) | Medium |
