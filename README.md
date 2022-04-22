@@ -38,7 +38,7 @@ https://leetcode-cn.com/problem-list/2cktkvj/
 | 64   | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [Java](./java/medium/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.java) | Medium |
 | 70   | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [Java](./java/easy/70.%E7%88%AC%E6%A5%BC%E6%A2%AF.java) | Easy |
 | 72   |                                                              |                                                              |            |
-| 75   |                                                              |                                                              |            |
+| 75   | [颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [Java](./java/medium/75.%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.java) | Medium |
 | 76   |                                                              |                                                              |            |
 | 78   | [子集](https://leetcode-cn.com/problems/subsets/) | [Java](./java/medium/78.%E5%AD%90%E9%9B%86.java) | Medium |
 | 79   | [单词搜索](https://leetcode-cn.com/problems/word-search/) | [Java](./java/medium/79.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.java) | Medium |
