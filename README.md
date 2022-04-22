@@ -35,7 +35,7 @@ https://leetcode-cn.com/problem-list/2cktkvj/
 | 55   | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [Java](./java/medium/55.%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.java) | Medium |
 | 56   | [合并区间](https://leetcode-cn.com/problems/merge-intervals/) | [Java](./java/medium/56.%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.java) | Medium |
 | 62   | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [Java](./java/medium/62.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.java) | Medium |
-| 64   |                                                              |                                                              |            |
+| 64   | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [Java](./java/medium/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.java) | Medium |
 | 70   | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [Java](./java/easy/70.%E7%88%AC%E6%A5%BC%E6%A2%AF.java) | Easy |
 | 72   |                                                              |                                                              |            |
 | 75   |                                                              |                                                              |            |
