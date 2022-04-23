@@ -47,10 +47,10 @@ LeetCode
 | 102  | [102.二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [Java](./java/medium/102.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.java) | Medium     |
 | 104  | [104.二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Java](./java/easy/104.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.java) | Easy       |
 | 105  | [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](./java/medium/105.%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.java) | Medium     |
-| 114  | [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [Java](./java/medium/114.二叉树展开为链表.java)                                                     | Medium     |
+| 114  | [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [Java](./java/medium/114.二叉树展开为链表.java)              | Medium     |
 | 121  | [121.买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./java/easy/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.java) | Easy       |
 | 124  |                                                              |                                                              |            |
-| 128  |                                                              |                                                              |            |
+| 128  | [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [Java](./java/medium/128.最长连续序列.java)                                                     | Medium     |
 | 136  | [136.只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [Java](./java/easy/136.%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.java) | Easy       |
 | 139  |                                                              |                                                              |            |
 | 141  | [141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [Java](./java/easy/141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.java) | Easy       |
