@@ -50,9 +50,9 @@ LeetCode
 | 114  | [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [Java](./java/medium/114.二叉树展开为链表.java)              | Medium     |
 | 121  | [121.买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./java/easy/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.java) | Easy       |
 | 124  |                                                              |                                                              |            |
-| 128  | [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [Java](./java/medium/128.最长连续序列.java)                                                     | Medium     |
+| 128  | [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [Java](./java/medium/128.最长连续序列.java)                  | Medium     |
 | 136  | [136.只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [Java](./java/easy/136.%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.java) | Easy       |
-| 139  |                                                              |                                                              |            |
+| 139  | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) | [Java](./java/medium/139.单词拆分.java)                                                     | Medium     |
 | 141  | [141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [Java](./java/easy/141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.java) | Easy       |
 | 142  | [142.环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Java](./java/medium/142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8-ii.java) | Medium     |
 | 146  |                                                              |                                                              |            |
