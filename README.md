@@ -94,10 +94,10 @@ LeetCode
 | 437  |                                                              |                                                              |            |
 | 438  |                                                              |                                                              |            |
 | 448  |                                                              |                                                              |            |
-| 461  |                                                              |                                                              |            |
+| 461  | [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | [Java](./java/easy/461.汉明距离.java)                                                     | Easy       |
 | 494  |                                                              |                                                              |            |
 | 538  |                                                              |                                                              |            |
-| 543  | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [Java](./java/easy/543.二叉树的直径.java)                                                     | Easy       |
+| 543  | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [Java](./543)                                                | Easy       |
 | 560  |                                                              |                                                              |            |
 | 581  |                                                              |                                                              |            |
 | 617  | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [Java](./617)                                                | Easy       |
