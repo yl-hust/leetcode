@@ -83,9 +83,9 @@ LeetCode
 | 301  |                                                              |                                                              |            |
 | 309  |                                                              |                                                              |            |
 | 312  |                                                              |                                                              |            |
-| 322  |                                                              |                                                              |            |
+| 322  | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [Java](./java/medium/322.零钱兑换.java)                                                     | Medium     |
 | 337  |                                                              |                                                              |            |
-| 338  | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [Java](./java/easy/338.比特位计数.java)                                                     | Easy       |
+| 338  | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [Java](./java/easy/338.比特位计数.java)                      | Easy       |
 | 347  |                                                              |                                                              |            |
 | 394  |                                                              |                                                              |            |
 | 399  |                                                              |                                                              |            |
