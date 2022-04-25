@@ -85,7 +85,7 @@ LeetCode
 | 312  |                                                              |                                                              |            |
 | 322  |                                                              |                                                              |            |
 | 337  |                                                              |                                                              |            |
-| 338  |                                                              |                                                              |            |
+| 338  | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [Java](./java/easy/338.比特位计数.java)                                                     | Easy       |
 | 347  |                                                              |                                                              |            |
 | 394  |                                                              |                                                              |            |
 | 399  |                                                              |                                                              |            |
@@ -93,7 +93,7 @@ LeetCode
 | 416  |                                                              |                                                              |            |
 | 437  |                                                              |                                                              |            |
 | 438  |                                                              |                                                              |            |
-| 448  | [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./java/easy/448.找到所有数组中消失的数字.java)                                                     | Easy       |
+| 448  | [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./java/easy/448.找到所有数组中消失的数字.java)        | Easy       |
 | 461  | [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | [Java](./java/easy/461.汉明距离.java)                        | Easy       |
 | 494  |                                                              |                                                              |            |
 | 538  |                                                              |                                                              |            |
