@@ -40,7 +40,7 @@ LeetCode
 | 79   | [79.单词搜索](https://leetcode-cn.com/problems/word-search/) | [Java](./java/medium/79.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.java) | Medium     |
 | 84   |                                                              |                                                              |            |
 | 85   |                                                              |                                                              |            |
-| 94   | [94.二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Java](./java/easy/94.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.java) | Easy       |
+| 94   | [94.二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Java](./java/easy/94.二叉树的中序遍历.java)                 | Easy       |
 | 96   | [96.不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [Java](./java/medium/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.java) | Medium     |
 | 98   | [98.验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [Java](./java/medium/98.%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.java) | Medium     |
 | 101  | [101.对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [Java](./java/easy/101.%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.java) | Easy       |
@@ -55,7 +55,7 @@ LeetCode
 | 139  | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) | [Java](./java/medium/139.单词拆分.java)                      | Medium     |
 | 141  | [141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [Java](./java/easy/141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.java) | Easy       |
 | 142  | [142.环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Java](./java/medium/142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8-ii.java) | Medium     |
-| 146  |                                                              |                                                              |            |
+| 146  | [146. LRU 缓存](https://leetcode-cn.com/problems/lru-cache/) | [Java](./java/medium/146.lru-%E7%BC%93%E5%AD%98.java)                                                     | Medium     |
 | 148  |                                                              |                                                              |            |
 | 152  |                                                              |                                                              |            |
 | 155  | [155.最小栈](https://leetcode-cn.com/problems/min-stack/)    | [Java](./java/easy/155.%E6%9C%80%E5%B0%8F%E6%A0%88.java)     | Easy       |
@@ -83,7 +83,7 @@ LeetCode
 | 301  |                                                              |                                                              |            |
 | 309  |                                                              |                                                              |            |
 | 312  |                                                              |                                                              |            |
-| 322  | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [Java](./java/medium/322.零钱兑换.java)                                                     | Medium     |
+| 322  | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [Java](./java/medium/322.零钱兑换.java)                      | Medium     |
 | 337  |                                                              |                                                              |            |
 | 338  | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [Java](./java/easy/338.比特位计数.java)                      | Easy       |
 | 347  |                                                              |                                                              |            |
@@ -97,10 +97,10 @@ LeetCode
 | 461  | [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | [Java](./java/easy/461.汉明距离.java)                        | Easy       |
 | 494  |                                                              |                                                              |            |
 | 538  |                                                              |                                                              |            |
-| 543  | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [Java](./543)                                                | Easy       |
+| 543  | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [Java](./java/easy/543.二叉树的直径.java)                    | Easy       |
 | 560  |                                                              |                                                              |            |
 | 581  |                                                              |                                                              |            |
-| 617  | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [Java](./617)                                                | Easy       |
+| 617  | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [Java](./java/easy/617.合并二叉树.java)                      | Easy       |
 | 621  |                                                              |                                                              |            |
 | 647  |                                                              |                                                              |            |
 | 739  |                                                              |                                                              |            |
