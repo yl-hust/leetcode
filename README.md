@@ -97,10 +97,10 @@ LeetCode
 | 461  |                                                              |                                                              |            |
 | 494  |                                                              |                                                              |            |
 | 538  |                                                              |                                                              |            |
-| 543  |                                                              |                                                              |            |
+| 543  | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [Java](./java/easy/543.二叉树的直径.java)                                                     | Easy       |
 | 560  |                                                              |                                                              |            |
 | 581  |                                                              |                                                              |            |
-| 617  | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [Java](./java/easy/617.合并二叉树.java)                                                     | Easy       |
+| 617  | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [Java](./617)                                                | Easy       |
 | 621  |                                                              |                                                              |            |
 | 647  |                                                              |                                                              |            |
 | 739  |                                                              |                                                              |            |
