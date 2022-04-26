@@ -61,8 +61,8 @@ LeetCode
 | 155  | [155.最小栈](https://leetcode-cn.com/problems/min-stack/)    | [Java](./java/easy/155.%E6%9C%80%E5%B0%8F%E6%A0%88.java)     | Easy       |
 | 160  | [160.相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [Java](./java/easy/160.%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.java) | Easy       |
 | 169  | [169.多数元素](https://leetcode-cn.com/problems/majority-element/) | [Java](./java/easy/169.%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.java) | Easy       |
-| 198  | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [Java](./java/medium/198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.java)                                                     | Medium     |
-| 200  |                                                              |                                                              |            |
+| 198  | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [Java](./java/medium/198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.java) | Medium     |
+| 200  | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [Java](./java/medium/200.%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.java)                                                     | Medium     |
 | 206  | [206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [Java](./java/easy/206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.java) | Easy       |
 | 207  |                                                              |                                                              |            |
 | 208  | [208.实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | [Java](./java/medium/208.%E5%AE%9E%E7%8E%B0-trie-%E5%89%8D%E7%BC%80%E6%A0%91.java) | Medium     |
