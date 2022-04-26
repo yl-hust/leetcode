@@ -55,8 +55,8 @@ LeetCode
 | 139  | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) | [Java](./java/medium/139.单词拆分.java)                      | Medium     |
 | 141  | [141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [Java](./java/easy/141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.java) | Easy       |
 | 142  | [142.环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Java](./java/medium/142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8-ii.java) | Medium     |
-| 146  | [146. LRU 缓存](https://leetcode-cn.com/problems/lru-cache/) | [Java](./java/medium/146.lru-%E7%BC%93%E5%AD%98.java)                                                     | Medium     |
-| 148  |                                                              |                                                              |            |
+| 146  | [146. LRU 缓存](https://leetcode-cn.com/problems/lru-cache/) | [Java](./java/medium/146.lru-%E7%BC%93%E5%AD%98.java)        | Medium     |
+| 148  | [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) | [Java](./java/medium/148.%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.java)                                                     | Medium     |
 | 152  |                                                              |                                                              |            |
 | 155  | [155.最小栈](https://leetcode-cn.com/problems/min-stack/)    | [Java](./java/easy/155.%E6%9C%80%E5%B0%8F%E6%A0%88.java)     | Easy       |
 | 160  | [160.相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [Java](./java/easy/160.%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.java) | Easy       |
