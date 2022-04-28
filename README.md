@@ -86,7 +86,7 @@ LeetCode
 | 322  | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [Java](./java/medium/322.零钱兑换.java)                      | Medium     |         |
 | 337  | [337. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/) | [Java](./java/medium/337.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D-iii.java) | Medium | uber |
 | 338  | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [Java](./java/easy/338.比特位计数.java)                      | Easy       |         |
-| 347  |                                                              |                                                              |            |         |
+| 347  | [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [Java](./java/medium/347.%E5%89%8D-k-%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.java) | Medium | pocketgems \| yelp |
 | 394  |                                                              |                                                              |            |         |
 | 399  |                                                              |                                                              |            |         |
 | 406  |                                                              |                                                              |            |         |
