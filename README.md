@@ -90,7 +90,7 @@ LeetCode
 | 394  | [394. 字符串解码](https://leetcode-cn.com/problems/decode-string/) | [Java](./java/medium/394.%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E7%A0%81.java) | Medium | google \| yelp |
 | 399  |                                                              |                                                              |            |         |
 | 406  | [406. 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [Java](./java/medium/406.%E6%A0%B9%E6%8D%AE%E8%BA%AB%E9%AB%98%E9%87%8D%E5%BB%BA%E9%98%9F%E5%88%97.java) | Medium | google |
-| 416  |                                                              |                                                              |            |         |
+| 416  | [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [Java](./java/medium/416.%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.java) | Medium | ebay |
 | 437  |                                                              |                                                              |            |         |
 | 438  |                                                              |                                                              |            |         |
 | 448  | [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./java/easy/448.找到所有数组中消失的数字.java)        | Easy       |         |
