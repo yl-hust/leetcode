@@ -46,8 +46,8 @@ LeetCode
 | 101  | [101.对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [Java](./java/easy/101.%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.java) | Easy       |         |
 | 102  | [102.二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [Java](./java/medium/102.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.java) | Medium     |         |
 | 104  | [104.二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Java](./java/easy/104.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.java) | Easy       |         |
-| 105  | [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](./java/medium/105.%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.java) | Medium     |         |
-| 114  | [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [Java](./java/medium/114.二叉树展开为链表.java)              | Medium     |         |
+| 105  | [105.从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](./java/medium/105.%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.java) | Medium     |         |
+| 114  | [114.二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [Java](./java/medium/114.二叉树展开为链表.java)              | Medium     |         |
 | 121  | [121.买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./java/easy/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.java) | Easy       |         |
 | 124  |                                                              |                                                              |            |         |
 | 128  | [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [Java](./java/medium/128.最长连续序列.java)                  | Medium     |         |
@@ -76,7 +76,7 @@ LeetCode
 | 240  | [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [Java](./java/medium/240.%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5-ii.java) | Medium     |         |
 | 253  |                                                              |                                                              |            |         |
 | 279  | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | [Java](./java/medium/279.%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.java) | Medium     |         |
-| 283  | [283.移动零](https://leetcode-cn.com/problems/move-zeroes/)  | [Java](./java/easy/283.%E7%A7%BB%E5%8A%A8%E9%9B%B6.java)     | Easy       |         |
+| 283  | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)  | [Java](./java/easy/283.%E7%A7%BB%E5%8A%A8%E9%9B%B6.java)     | Easy       |         |
 | 287  | [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [Java](./java/medium/287.%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0.java) | Medium     |         |
 | 297  |                                                              |                                                              |            |         |
 | 300  | [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [Java](./java/medium/300.%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.java) | Medium | microsoft |
@@ -87,7 +87,7 @@ LeetCode
 | 337  | [337. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/) | [Java](./java/medium/337.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D-iii.java) | Medium | uber |
 | 338  | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [Java](./java/easy/338.比特位计数.java)                      | Easy       |         |
 | 347  | [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [Java](./java/medium/347.%E5%89%8D-k-%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.java) | Medium | pocketgems \| yelp |
-| 394  |                                                              |                                                              |            |         |
+| 394  | [394. 字符串解码](https://leetcode-cn.com/problems/decode-string/) | [Java](./java/medium/394.%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E7%A0%81.java) | Medium | google \| yelp |
 | 399  |                                                              |                                                              |            |         |
 | 406  |                                                              |                                                              |            |         |
 | 416  |                                                              |                                                              |            |         |
