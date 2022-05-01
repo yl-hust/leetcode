@@ -9,7 +9,7 @@ LeetCode
 | 3    | [3.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [Java](./java/medium/3.%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.java) | Medium     | adobe \| amazon \| bloomberg \| yelp      |
 | 4    |                                                              | [Java]()                                                     |            |         |
 | 5    | [5.最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Java](./java/medium/5.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.java) | Medium     | amazon \| bloomberg \| microsoft        |
-| 10   |                                                              | [Java]()                                                     |            |         |
+| 6  | 10 | [Java]()                                                     |            |         |
 | 7   | [11.盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [Java](./java/medium/11.%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.java) | Medium     |  bloomberg       |
 | 8   | [15.三数之和](https://leetcode-cn.com/problems/3sum/)        | [Java](./java/medium/15.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.java) | Medium     | adobe \| amazon \| bloomberg \| facebook |
 | 9  | [17.电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [Java](./java/medium/17.%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.java) | Medium     | amazon \| dropbox \| facebook \| google \| uber |
@@ -17,13 +17,13 @@ LeetCode
 | 11 | [20.有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [Java](./java/easy/20.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.java) | Easy       | airbnb \| amazon \| bloomberg \| facebook \| google \| microsoft \| twitter \| zenefits |
 | 12 | [21.合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Java](./java/easy/21.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.java) | Easy       | amazon \| apple \| linkedin \| microsoft |
 | 13 | [22.括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [Java](./java/medium/22.%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.java) | Medium     | google \| uber \| zenefits |
-| 23   |                                                              |                                                              |            |         |
+| 14 | 23 |                                                              |            |         |
 | 15 | [31.下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [Java](./java/medium/31.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.java) | Medium     | google |
-| 32   |                                                              |                                                              |            |         |
+| 16 | 32 |                                                              |            |         |
 | 17 | [33.搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Java](./java/medium/33.%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.java) | Medium     | bloomberg\|facebook \|linkedin \|microsoft \|uber |
 | 18 | [34.在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](./java/medium/34.%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.java) | Medium     | linkedin |
 | 19  | [39.组合总和](https://leetcode-cn.com/problems/combination-sum/) | [Java](./java/medium/39.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.java) | Medium     | snapchat \| uber |
-| 42   |                                                              |                                                              |            |  |
+| 20 | 42 |                                                              |            |  |
 | 21 | [46.全排列](https://leetcode-cn.com/problems/permutations/)  | [Java](./java/medium/46.%E5%85%A8%E6%8E%92%E5%88%97.java)    | Medium     | linkedin \| microsoft |
 | 22 | [48.旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [Java](./java/medium/48.%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.java) | Medium     | amazon \| apple \| microsoft |
 | 23 | [49.字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [Java](./java/medium/49.%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.java) | Medium     | amazon \| bloomberg \| facebook \| uber \| yelp |
@@ -33,13 +33,13 @@ LeetCode
 | 27 | [62.不同路径](https://leetcode-cn.com/problems/unique-paths/) | [Java](./java/medium/62.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.java) | Medium     | bloomberg |
 | 28 | [64.最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [Java](./java/medium/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.java) | Medium     | Unknown |
 | 29 | [70.爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [Java](./java/easy/70.%E7%88%AC%E6%A5%BC%E6%A2%AF.java)      | Easy       | adobe \| apple |
-| 72   |                                                              |                                                              |            |         |
+| 30 | 72 |                                                              |            |         |
 | 31 | [75.颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [Java](./java/medium/75.%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.java) | Medium     | facebook \| microsoft \| pocketgems |
-| 76   |                                                              |                                                              |            |         |
+| 32 | 76 |                                                              |            |         |
 | 33 | [78.子集](https://leetcode-cn.com/problems/subsets/)         | [Java](./java/medium/78.%E5%AD%90%E9%9B%86.java)             | Medium     | amazon \| bloomberg \| facebook \| uber |
 | 34 | [79.单词搜索](https://leetcode-cn.com/problems/word-search/) | [Java](./java/medium/79.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.java) | Medium     | bloomberg \| facebook \| microsoft |
-| 84   |                                                              |                                                              |            |         |
-| 85   |                                                              |                                                              |            |         |
+| 35 | 84 |                                                              |            |         |
+| 36 | 85 |                                                              |            |         |
 | 37 | [94.二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Java](./java/easy/94.二叉树的中序遍历.java)                 | Easy       | microsoft |
 | 38 | [96.不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [Java](./java/medium/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.java) | Medium     | snapchat |
 | 39 | [98.验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [Java](./java/medium/98.%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.java) | Medium     | amazon \| bloomberg \| facebook \| microsoft |
@@ -49,21 +49,21 @@ LeetCode
 | 43 | [105.从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](./java/medium/105.%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.java) | Medium     | bloomberg |
 | 44 | [114.二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [Java](./java/medium/114.二叉树展开为链表.java)              | Medium     | microsoft |
 | 45 | [121.买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./java/easy/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.java) | Easy       | amazon \| bloomberg \| facebook \| microsoft \| uber |
-| 124  |                                                              |                                                              |            |         |
+| 46 | 124 |                                                              |            |         |
 | 47 | [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [Java](./java/medium/128.最长连续序列.java)                  | Medium     | facebook \| google |
 | 48 | [136.只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [Java](./java/easy/136.%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.java) | Easy       | airbnb \| palantir |
 | 49 | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) | [Java](./java/medium/139.单词拆分.java)                      | Medium     | amazon \| bloomberg \| facebook \| google \| pocketgems \| uber \| yahoo |
 | 50 | [141.环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [Java](./java/easy/141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.java) | Easy       | amazon \| bloomberg \| microsoft \| yahoo |
-| 142  | [142.环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Java](./java/medium/142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8-ii.java) | Medium     |         |
-| 146  | [146. LRU 缓存](https://leetcode-cn.com/problems/lru-cache/) | [Java](./java/medium/146.lru-%E7%BC%93%E5%AD%98.java)        | Medium     |         |
-| 148  | [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) | [Java](./java/medium/148.%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.java) | Medium     |         |
-| 152  | [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) | [Java](./java/medium/152.%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84.java) | Medium     |         |
-| 155  | [155.最小栈](https://leetcode-cn.com/problems/min-stack/)    | [Java](./java/easy/155.%E6%9C%80%E5%B0%8F%E6%A0%88.java)     | Easy       |         |
-| 160  | [160.相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [Java](./java/easy/160.%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.java) | Easy       |         |
-| 169  | [169.多数元素](https://leetcode-cn.com/problems/majority-element/) | [Java](./java/easy/169.%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.java) | Easy       |         |
-| 198  | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [Java](./java/medium/198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.java) | Medium     |         |
-| 200  | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [Java](./java/medium/200.%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.java) | Medium     |         |
-| 206  | [206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [Java](./java/easy/206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.java) | Easy       |         |
+| 51 | [142.环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Java](./java/medium/142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8-ii.java) | Medium     | Unknown |
+| 52 | [146. LRU 缓存](https://leetcode-cn.com/problems/lru-cache/) | [Java](./java/medium/146.lru-%E7%BC%93%E5%AD%98.java)        | Medium     | amazon \| bloomberg \| facebook \| google \| microsoft \| palantir \| snapchat \| twitter \| uber \| yahoo \| zenefits |
+| 53 | [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) | [Java](./java/medium/148.%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.java) | Medium     | Unknown |
+| 54 | [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) | [Java](./java/medium/152.%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84.java) | Medium     | linkedin |
+| 55  | [155.最小栈](https://leetcode-cn.com/problems/min-stack/)    | [Java](./java/easy/155.%E6%9C%80%E5%B0%8F%E6%A0%88.java)     | Easy       | amazon \| bloomberg \| google \| snapchat \| uber \| zenefits |
+| 56 | [160.相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [Java](./java/easy/160.%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.java) | Easy       | airbnb \| amazon \| bloomberg \| microsoft |
+| 57 | [169.多数元素](https://leetcode-cn.com/problems/majority-element/) | [Java](./java/easy/169.%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.java) | Easy       | adobe \| zenefits |
+| 58 | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [Java](./java/medium/198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.java) | Medium     | airbnb \| linkedin |
+| 59 | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [Java](./java/medium/200.%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.java) | Medium     | amazon \| facebook \| google \| microsoft \| zenefits |
+| 60 | [206.反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [Java](./java/easy/206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.java) | Easy       | adobe \| amazon \| apple \| bloomberg \| facebook \| microsoft \| snapchat \| twitter \| uber \| yahoo \| yelp \| zenefits |
 | 207  | [207. 课程表](https://leetcode-cn.com/problems/course-schedule/) | [Java](./java/medium/207.%E8%AF%BE%E7%A8%8B%E8%A1%A8.java) | Medium | apple \| uber \| yelp \| zenefits |
 | 208  | [208.实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | [Java](./java/medium/208.%E5%AE%9E%E7%8E%B0-trie-%E5%89%8D%E7%BC%80%E6%A0%91.java) | Medium     |         |
 | 215  | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [Java](./java/medium/215.%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACk%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.java) | Medium     |         |
@@ -95,7 +95,7 @@ LeetCode
 | 438  | [438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) | [Java](./java/medium/438.%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.java) | Medium | amazon |
 | 448  | [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [Java](./java/easy/448.找到所有数组中消失的数字.java)        | Easy       |         |
 | 461  | [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | [Java](./java/easy/461.汉明距离.java)                        | Easy       |         |
-| 494  |                                                              |                                                              |            |         |
+| 494  | [494. 目标和](https://leetcode-cn.com/problems/target-sum/) | [Java](./java/medium/494.%E7%9B%AE%E6%A0%87%E5%92%8C.java) | Medium | facebook \| google |
 | 538  |                                                              |                                                              |            |         |
 | 543  | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [Java](./java/easy/543.二叉树的直径.java)                    | Easy       |         |
 | 560  |                                                              |                                                              |            |         |
