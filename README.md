@@ -74,16 +74,16 @@ LeetCode
 | 68 | [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [Java](./java/medium/238.%E9%99%A4%E8%87%AA%E8%BA%AB%E4%BB%A5%E5%A4%96%E6%95%B0%E7%BB%84%E7%9A%84%E4%B9%98%E7%A7%AF.java) | Medium     | amazon \| apple \| facebook \| linkedin \| microsoft |
 | 69 | [239.滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | [Java](./java/medium/239.%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.java) | Medium     | amazon \| google \| zenefits |
 | 70 | [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [Java](./java/medium/240.%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5-ii.java) | Medium     | amazon \| apple \| google |
-| 253  |                                                              |                                                              |            |         |
-| 279  | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | [Java](./java/medium/279.%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.java) | Medium     |         |
-| 283  | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)  | [Java](./java/easy/283.%E7%A7%BB%E5%8A%A8%E9%9B%B6.java)     | Easy       |         |
-| 287  | [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [Java](./java/medium/287.%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0.java) | Medium     |         |
-| 297  |                                                              |                                                              |            |         |
-| 300  | [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [Java](./java/medium/300.%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.java) | Medium | microsoft |
-| 301  |                                                              |                                                              |            |         |
-| 309  | [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Java](./java/medium/309.%E6%9C%80%E4%BD%B3%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E6%97%B6%E6%9C%BA%E5%90%AB%E5%86%B7%E5%86%BB%E6%9C%9F.java) | Medium | google |
-| 312  |                                                              |                                                              |            |         |
-| 322  | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [Java](./java/medium/322.零钱兑换.java)                      | Medium     |         |
+|   | 253 |                                                              |            |         |
+| 72 | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | [Java](./java/medium/279.%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.java) | Medium     | google |
+| 73 | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)  | [Java](./java/easy/283.%E7%A7%BB%E5%8A%A8%E9%9B%B6.java)     | Easy       | bloomberg \| facebook |
+| 74 | [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [Java](./java/medium/287.%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0.java) | Medium     | bloomberg |
+| 75 | 297 |                                                              |            |         |
+| 76 | [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [Java](./java/medium/300.%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.java) | Medium | microsoft |
+| 77 | 301 |                                                              |            |         |
+| 78 | [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Java](./java/medium/309.%E6%9C%80%E4%BD%B3%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E6%97%B6%E6%9C%BA%E5%90%AB%E5%86%B7%E5%86%BB%E6%9C%9F.java) | Medium | google |
+| 79 | 312 |                                                              |            |         |
+| 80 | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [Java](./java/medium/322.零钱兑换.java)                      | Medium     | Unknown |
 | 337  | [337. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/) | [Java](./java/medium/337.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D-iii.java) | Medium | uber |
 | 338  | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [Java](./java/easy/338.比特位计数.java)                      | Easy       |         |
 | 347  | [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [Java](./java/medium/347.%E5%89%8D-k-%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.java) | Medium | pocketgems \| yelp |
@@ -98,7 +98,7 @@ LeetCode
 | 494  | [494. 目标和](https://leetcode-cn.com/problems/target-sum/) | [Java](./java/medium/494.%E7%9B%AE%E6%A0%87%E5%92%8C.java) | Medium | facebook \| google |
 | 538  | [538. 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [Java](./java/medium/538.%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.java) | Medium | amazon |
 | 543  | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [Java](./java/easy/543.二叉树的直径.java)                    | Easy       |         |
-| 560  |                                                              |                                                              |            |         |
+| 560  | [560. 和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [Java](./java/medium/560.%E5%92%8C%E4%B8%BA-k-%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.java) | Medium | google |
 | 581  |                                                              |                                                              |            |         |
 | 617  | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [Java](./java/easy/617.合并二叉树.java)                      | Easy       |         |
 | 621  |                                                              |                                                              |            |         |
