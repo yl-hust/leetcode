@@ -16,7 +16,6 @@ class Solution {
         while (index < height.length) {
             while (!queue.isEmpty() && height[index] > height[queue.peek()]) {
                 int top = queue.pop(); // 存水点出栈
-                System.out.println("出栈" + top);
                 if (queue.isEmpty()) { // 判断有左边界，queue.peek()有意义
                     break;
                 }
@@ -26,7 +25,6 @@ class Solution {
                 ans += gao * width;
             }
             queue.push(index); // 记录单调下降过程
-            System.out.println("入栈：" + index);
             index++;
         }
         return ans;
