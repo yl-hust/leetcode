@@ -57,15 +57,14 @@ class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if (root == null) return null;
         if (root == p || root == q) return root;
-        // 从左子树里找公共节点（递归）
-        TreeNode left = lowestCommonAncestor(root.left, p, q);
-        // 从右子树里找公共节点（递归）
-        TreeNode right = lowestCommonAncestor(root.right, p, q);
-        // 左子树里找不到，返回右子树结果
-        if (left == null) return right;
-        // 右子树里找不到，返回左子树结果
-        if (right == null) return left;
-        // 左右子树分别找到了，返回根
+        // 根据二叉搜索树的特性，根据p，q的值判定在哪个子树
+        if (p.val < root.val && q.val < root.val) {
+            return lowestCommonAncestor(root.left, p, q);
+        }
+        if (p.val > root.val && q.val > root.val) {
+            return lowestCommonAncestor(root.right, p, q);
+        }
+        // p，q在根两侧，返回根
         return root;
     }
 }
