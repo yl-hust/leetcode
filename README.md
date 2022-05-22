@@ -25,7 +25,7 @@ LeetCode
 | 14 | [剑指 Offer 15. 二进制中1的个数](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer15.java) | 75.1% | 简单 |
 | 15 | [剑指 Offer 16. 数值的整数次方](https://leetcode.cn/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | 2+                                                                           | 34.5% | 中等 |
 | 16 | [剑指 Offer 17. 打印从1到最大的n位数](https://leetcode.cn/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer17.java) | 77.9% | 简单 |
-| 17 | [剑指 Offer 18. 删除链表的节点](https://leetcode.cn/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | 10+                                                                          | 60.1% | 简单 |
+| 17 | [剑指 Offer 18. 删除链表的节点](https://leetcode.cn/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer18.java) | 60.1% | 简单 |
 | 18 | [剑指 Offer 19. 正则表达式匹配](https://leetcode.cn/problems/zheng-ze-biao-da-shi-pi-pei-lcof/) | 9+                                                                           | 38.7% | 困难 |
 | 19 | [剑指 Offer 20. 表示数值的字符串](https://leetcode.cn/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | 13+                                                                          | 25.1% | 中等 |
 | 20 | [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer21.java) | 64.7% | 简单 |
@@ -40,9 +40,9 @@ LeetCode
 | 29 | [剑指 Offer 31. 栈的压入、弹出序列](https://leetcode.cn/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer31.java) | 62.0% | 中等 |
 | 30 | [剑指 Offer 32 - I. 从上到下打印二叉树](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer32I.java) | 63.8% | 中等 |
 | 31 | [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer32II.java) | 68.8% | 简单 |
-| 32 | [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | 8+                                                                           | 58.7% | 中等 |
+| 32 | [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer32III.java) | 58.7% | 中等 |
 | 33 | [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | 11+                                                                          | 56.1% | 中等 |
-| 34 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode.cn/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | 14+                                                                          | 58.6% | 中等 |
+| 34 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode.cn/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer34.java) | 58.6% | 中等 |
 | 35 | [剑指 Offer 35. 复杂链表的复制](https://leetcode.cn/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer35.java) | 71.6% | 中等 |
 | 36 | [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode.cn/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer36.java) | 65.3% | 中等 |
 | 37 | [剑指 Offer 37. 序列化二叉树](https://leetcode.cn/problems/xu-lie-hua-er-cha-shu-lcof/) | 6+                                                                           | 57.0% | 困难 |
@@ -65,7 +65,7 @@ LeetCode
 | 54 | [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/) | 10+                                                                          | 44.7% | 简单 |
 | 55 | [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer54.java) | 76.3% | 简单 |
 | 56 | [剑指 Offer 55 - I. 二叉树的深度](https://leetcode.cn/problems/er-cha-shu-de-shen-du-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer55I.java) | 79.2% | 简单 |
-| 57 | [剑指 Offer 55 - II. 平衡二叉树](https://leetcode.cn/problems/ping-heng-er-cha-shu-lcof/) | 10+                                                                          | 59.5% | 简单 |
+| 57 | [剑指 Offer 55 - II. 平衡二叉树](https://leetcode.cn/problems/ping-heng-er-cha-shu-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer55II.java) | 59.5% | 简单 |
 | 58 | [剑指 Offer 56 - I. 数组中数字出现的次数](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer56I.java) | 69.3% | 中等 |
 | 59 | [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer56II.java) | 80.6% | 中等 |
 | 60 | [剑指 Offer 57. 和为s的两个数字](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer57.java) | 67.8% | 简单 |
@@ -79,8 +79,8 @@ LeetCode
 | 68 | [剑指 Offer 62. 圆圈中最后剩下的数字](https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer62.java) | 65.8% | 简单 |
 | 69 | [剑指 Offer 63. 股票的最大利润](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer63.java) | 63.5% | 中等 |
 | 70 | [剑指 Offer 64. 求1+2+…+n](https://leetcode.cn/problems/qiu-12n-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer64.java) | 85.9% | 中等 |
-| 71 | [剑指 Offer 65. 不用加减乘除做加法](https://leetcode.cn/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | 7+                                                                           | 59.3% | 简单 |
-| 72 | [剑指 Offer 66. 构建乘积数组](https://leetcode.cn/problems/gou-jian-cheng-ji-shu-zu-lcof/) | 11+                                                                          | 59.9% | 中等 |
+| 71 | [剑指 Offer 65. 不用加减乘除做加法](https://leetcode.cn/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer65.java) | 59.3% | 简单 |
+| 72 | [剑指 Offer 66. 构建乘积数组](https://leetcode.cn/problems/gou-jian-cheng-ji-shu-zu-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer66.java) | 59.9% | 中等 |
 | 73 | [剑指 Offer 67. 把字符串转换成整数](https://leetcode.cn/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/) | 11+                                                                          | 29.1% | 中等 |
 | 74 | [剑指 Offer 68 - I. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer68I.java) | 69.5% | 简单 |
 | 75 | [剑指 Offer 68 - II. 二叉树的最近公共祖先](https://leetcode.cn/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [Java](./java/src/剑指offer/leetcode/editor/cn/%E5%89%91%E6%8C%87Offer68II.java) | 70.4% | 简单 |
