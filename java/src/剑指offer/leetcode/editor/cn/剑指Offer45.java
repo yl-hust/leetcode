@@ -32,7 +32,6 @@ package 剑指offer.leetcode.editor.cn;
 
 
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.List;
 
 // 把数组排成最小的数
@@ -47,14 +46,15 @@ class Solution {
         for(int num : nums) {
             list.add(num + "");
         }
-        list.sort(new Comparator<String>() {
-            @Override
-            public int compare(String o1, String o2) {
-                String str1 = o1 + o2;
-                String str2 = o2 + o1;
-                return str1.compareTo(str2);
-            }
-        });
+//        list.sort(new Comparator<String>() {
+//            @Override
+//            public int compare(String o1, String o2) {
+//                String str1 = o1 + o2;
+//                String str2 = o2 + o1;
+//                return str1.compareTo(str2);
+//            }
+//        });
+        list.sort((o1, o2) -> (o1 + o2).compareTo(o2 + o1));
         StringBuilder sb = new StringBuilder();
         for(String str : list) {
             sb.append(str);
