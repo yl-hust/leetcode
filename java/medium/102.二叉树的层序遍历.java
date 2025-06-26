@@ -24,34 +24,33 @@ import javax.swing.tree.TreeNode;
 class Solution {
     //BFS迭代法
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> answer = new ArrayList<>();
-
-        if (root == null) return answer;
-
+        List<List<Integer>> ans = new ArrayList<>();
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
         while (!q.isEmpty()) {
             int levelSize = q.size();
-            List<Integer> level = new ArrayList<>(); //同一层节点数组
+            List<Integer> level = new ArrayList<>();
             for (int i = 0; i < levelSize; i++) {
-                TreeNode node = q.poll();//出队列
+                TreeNode node = q.poll();
                 level.add(node.val);
                 if (node.left != null) {
-                    q.add(node.left);//入队
+                    q.add(node.left);
                 }
                 if (node.right != null) {
-                    q.add(node.right);//入队
+                    q.add(node.right);
                 }
             }
-            answer.add(level);
+            ans.add(level);           
+            
         }
-        return answer;
+
+        return ans;
     }
 
     // DFS递归法
     List<List<Integer>> levels = new ArrayList<>();
 
-    public List<List<Integer>> levelOrder(TreeNode root) {
+    public List<List<Integer>> levelOrder1(TreeNode root) {
         
         if (root == null) return levels;
         dfs(root, 0);

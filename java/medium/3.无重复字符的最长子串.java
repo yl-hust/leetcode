@@ -12,17 +12,18 @@ class Solution {
     public int lengthOfLongestSubstring(String s) {
         int max = 0;
         Set<Character> set = new HashSet<>();
-        int j = 0; //窗口的右边界，左指针
-        int i = 0; //窗口的左边界，右指针
+        int i = 0, j = 0;
         while (j < s.length()) {
-            if (!set.contains(s.charAt(j))) {//无重复
-                set.add(s.charAt(j++));//窗口加宽
+            if (!set.contains(s.charAt(j))) {
+                set.add(s.charAt(j));
+                j++;
                 max = Math.max(max, set.size());
-            } else {//发现重复
-                set.remove(s.charAt(i++));//窗口右移一位
+            } else {
+                set.remove(s.charAt(i));
+                i++;
             }
-        }            
-        return max;
+        }
+        return max;        
     }
 }
 // @lc code=end

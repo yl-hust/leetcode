@@ -7,6 +7,35 @@
 // @lc code=start
 class Solution {
     public String longestPalindrome(String s) {
+        int maxLen = 0;
+        int startIndex = 0;
+        for (int i = 0; i < s.length(); i++) {
+            // case 'aba'
+            int left = i, right = i;
+            while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+                int windowLen = right - left + 1;
+                if (windowLen > maxLen) {
+                    maxLen = windowLen;
+                    startIndex = left;
+                }
+                left--;
+                right++;
+            };
+            // case 'abba'
+            left = i;
+            right = i + 1;
+            while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+                if (right - left + 1 > maxLen) {
+                    maxLen = right - left + 1;
+                    startIndex = left;
+                }
+                left--;
+                right++;
+            }            
+        }
+        return s.substring(startIndex, startIndex + maxLen);
+    }
+    public String longestPalindrome1(String s) {
         int len = s.length();
         if (len < 2) {
             return s;

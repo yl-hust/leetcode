@@ -14,12 +14,11 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             if (queue.size() < k) {
                 queue.add(nums[i]);
-            } 
-            else if (nums[i] > queue.peek()) {
+            } else if (nums[i] > queue.peek()) {
                 // 有更大的元素，入堆
                 queue.remove();
-                queue.add(nums[i]);                
-            }            
+                queue.add(nums[i]);
+            }
         }
         return queue.peek();
     }

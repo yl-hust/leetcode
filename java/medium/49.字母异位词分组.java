@@ -13,18 +13,19 @@ import java.util.Map;
 // @lc code=start
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        // 排序法
         Map<String, List<String>> map = new HashMap<>();
         for (String str : strs) {
-            char[] array = str.toCharArray();
-            Arrays.sort(array);
-            String key = new String(array);
-            List list = map.getOrDefault(key, new ArrayList<>());
+            char[] chars = str.toCharArray();
+            Arrays.sort(chars);
+            String key = new String(chars);
+            List<String> list = map.getOrDefault(key, new ArrayList<>());
             list.add(str);
             map.put(key, list);
+            System.out.println(map);
         }
-
-        return new ArrayList<>(map.values());
+        List<List<String>> res = new ArrayList<>(map.values());
+        res.sort((a, b) -> a.size() - b.size());
+        return res;
     }
 }
 // @lc code=end

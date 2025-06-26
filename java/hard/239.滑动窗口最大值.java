@@ -1,6 +1,5 @@
-import java.util.ArrayDeque;
-import java.util.Arrays;
 import java.util.Deque;
+import java.util.LinkedList;
 
 /*
  * @lc app=leetcode.cn id=239 lang=java
@@ -11,25 +10,25 @@ import java.util.Deque;
 // @lc code=start
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-        if (nums == null || k <=0) {
+        if (nums == null || k <= 0) {
             return new int[0];
         }
         int n = nums.length;
-        int[] res = new int[n-k+1]; //返回的数组
-        Deque<Integer> q = new ArrayDeque<>(); //记录数组的index
-        int j = 0;
+        int[] res = new int[n - k + 1];
+        Deque<Integer> q = new LinkedList<>();
+        int j = 0;        
         for (int i = 0; i < n; i++) {
-            // 移除划出窗口的元素
-            if (!q.isEmpty() && q.peek() < i - k + 1) {
+            // remove element out of the window
+            if (!q.isEmpty() && q.peekFirst() < i - k + 1) {   
                 q.pollFirst();
             }
-            // 入队整理，移除所有比自己小的
+            // clean smaller element from the queue
             while (!q.isEmpty() && nums[i] >= nums[q.peekLast()]) {
                 q.pollLast();
             }
-            q.offer(i); //记录数组的下标
+            q.offer(i);
             if (i >= k - 1) {
-                res[j++] = nums[q.peek()];
+                res[j++] = nums[q.peekFirst()]; 
             }            
         }
         return res;

@@ -11,6 +11,14 @@ import java.util.Map;
 
 // @lc code=start
 class LRUCache {
+    private class Node {
+        int key, value;
+        Node prev, next;
+        Node(int k, int v) {
+            key = k;
+            value = v;
+        }
+    }
     /**
      * 由于LinkedList的remove(Object)或remove(index)方法是O(n)，所以AC不过 
      * 
@@ -25,41 +33,62 @@ class LRUCache {
      * 
      * 若要实现O(1)，需要自己实现双向链表，remove传入链表节点remove(Node)
      */      
-    int cap;
-    Deque<Integer> ll = new LinkedList<>();     // save cache key
-    Map<Integer, Integer> map = new HashMap<>(); // save cache
+    private int capacity;
+    private HashMap<Integer, Node> map;
+    private Node dummyHead, dummyTail;
     public LRUCache(int capacity) {
-        cap = capacity;
+        this.capacity = capacity;
+        this.map = new HashMap<>();
+        dummyHead = new Node(-1, -1);
+        dummyTail = new Node(-1, -1);
+        dummyHead.next = dummyTail;
+        dummyTail.prev = dummyHead;
     }
     
     public int get(int key) {
         if (!map.containsKey(key)) {
             return -1;
         }
-        int value = map.get(key);
-        moveToFirst(key);
-        return value;
+        Node node = map.get(key);
+        moveToHead(node);
+        return node.value;
     }
     
     public void put(int key, int value) {        
         if (map.containsKey(key)) {            
-            // Update value: 删掉老值
-            ll.remove(Integer.valueOf(key)); // remove(Object)而不是remove(index)            
+            Node node = map.get(key);
+            node.value = value;
+            moveToHead(node);           
         } else {
-            if (map.size() == cap) {
+            if (map.size() == capacity) {
                 // 淘汰LRU: 链表尾部
-                int lru = ll.removeLast();
-                map.remove(lru);
+                Node toRemove = dummyTail.prev;
+                removeNode(toRemove);
+                map.remove(toRemove.key);
             }
         }
         // 新值插到链表头
-        ll.addFirst(key);
-        map.put(key, value);
+        Node newNode = new Node(key, value);
+        addToHead(newNode);
+        map.put(key, newNode);
     }
     
-    private void moveToFirst(Integer key) {
-        ll.remove(key);
-        ll.addFirst(key);
+    private void moveToHead(Node node) {
+        removeNode(node);
+        addToHead(node);
+    }
+
+    private void removeNode(Node node) {
+        node.prev.next = node.next;
+        node.next.prev = node.prev;
+    }
+
+    private void addToHead(Node node) {
+        node.prev = dummyHead;
+        node.next = dummyHead.next;
+
+        dummyHead.next.prev = node;
+        dummyHead.next = node;
     }
 }
 
